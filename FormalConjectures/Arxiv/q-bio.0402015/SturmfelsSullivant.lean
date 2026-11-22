@@ -31,6 +31,10 @@ the Kimura 3-parameter model of DNA evolution [SS05, Conjecture 30], proved in [
 exactly those two tables. The counterexample is acknowledged in [Mic]. The smallest group for which
 the bound is not known is `ℤ/4`.
 
+What survives is the conjecture that the generation degree does not depend on the number of leaves
+[Mic13, Conjecture 9.3], [MV17, Conjecture 4.3]. It is not contradicted by the counterexample, and
+with the computed value for three leaves it would give the bound for `ℤ/4`.
+
 ## Formalisation
 
 We formalise the combinatorial restatement of [Mic16, Section 2]. A *flow* is an `n`-tuple of
@@ -52,6 +56,8 @@ so the statements below assume `0 < n`.
 * [CP07] Chifman, J. and Petrović, S. (2007). "Toric ideals of phylogenetic invariants for the
   general group-based model on claw trees `K_{1,n}`."
   [arXiv:math/0702368](https://arxiv.org/abs/math/0702368)
+* [Mic13] Michałek, M. (2013). "Constructive degree bounds for group-based models."
+  *J. Combin. Theory Ser. A* 120. [arXiv:1207.0930](https://arxiv.org/abs/1207.0930)
 * [Mic16] Michałek, M. (2016). "Finite phylogenetic complexity of `ℤ_p` and invariants for `ℤ_3`."
   [arXiv:1508.04177](https://arxiv.org/abs/1508.04177)
 * [MV17] Michałek, M. and Ventura, E. "Finite phylogenetic complexity and combinatorics of
@@ -142,6 +148,21 @@ theorem sturmfels_sullivant.variants.zmod_seventeen : ¬ GeneratedInDegree 3 (ZM
 @[category research open, AMS 5 13 14 92]
 theorem sturmfels_sullivant.variants.zmod_four (n : ℕ) (hn : 0 < n) :
     GeneratedInDegree n (ZMod 4) 4 := by
+  sorry
+
+/--
+**Constancy in the number of leaves** [Mic13, Conjecture 9.3]: "The function `φ(G, ·)` is
+constant", where `φ(G, n)` is the degree in which the ideal for `K_{1,n}` is generated. In
+[MV17, Conjecture 4.3] this reads `φ(G, n + 1) = max(2, φ(G, n))`.
+
+The inequality `φ(G, n) ≤ φ(G, n + 1)` is elementary (pad every flow with a zero entry), so the
+open content is that a degree bound `d ≥ 2` for `n ≥ 3` leaves gives the same bound for `n + 1`
+leaves. Only eventual constancy is known [MV17, Theorem 3.12].
+-/
+@[category research open, AMS 5 13 14 92]
+theorem sturmfels_sullivant.variants.constancy (G : Type) [AddCommGroup G] [Fintype G]
+    (n d : ℕ) (hn : 3 ≤ n) (hd : 2 ≤ d) (h : GeneratedInDegree n G d) :
+    GeneratedInDegree (n + 1) G d := by
   sorry
 
 /--
