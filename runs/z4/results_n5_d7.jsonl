@@ -2012,3 +2012,7 @@
 {"n": 5, "d": 7, "chunk": 2011, "margins": 200, "max_fibre": 12640, "disconnected": [], "secs": 49.5}
 {"n": 5, "d": 7, "chunk": 2012, "margins": 200, "max_fibre": 6338, "disconnected": [], "secs": 26.9}
 {"n": 5, "d": 7, "chunk": 2013, "margins": 200, "max_fibre": 13154, "disconnected": [], "secs": 61.0}
+{"n": 5, "d": 7, "chunk": 2014, "margins": 200, "max_fibre": 18240, "disconnected": [], "secs": 78.0}
+{"n": 5, "d": 7, "chunk": 2015, "margins": 200, "max_fibre": 25634, "disconnected": [], "secs": 87.9}
+{"n": 5, "d": 7, "chunk": 2016, "margins": 200, "max_fibre": 12530, "disconnected": [], "secs": 55.6}
+{"n": 5, "d": 7, "chunk": 2017, "margins": 200, "max_fibre": 24307, "disconnected": [], "secs": 92.8}
