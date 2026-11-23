@@ -1,0 +1,478 @@
+n=7 AAAAAAA_c0 vars=36 max_degree=2 degrees={2: 273} t=0s
+n=7 AAAAAAA_c1 vars=28 max_degree=2 degrees={2: 105} t=0s
+n=7 AAAAAAA_c2 vars=28 max_degree=2 degrees={2: 105} t=0s
+n=7 AAAAAAA_c3 vars=36 max_degree=2 degrees={2: 273} t=0s
+n=7 AAAAAAB_c0 vars=32 max_degree=2 degrees={2: 165} t=0s
+n=7 AAAAAAB_c1 vars=32 max_degree=2 degrees={2: 164} t=0s
+n=7 AAAAAAB_c2 vars=32 max_degree=2 degrees={2: 165} t=0s
+n=7 AAAAAAB_c3 vars=32 max_degree=2 degrees={2: 164} t=0s
+n=7 AAAAAAC_c0 vars=52 max_degree=2 degrees={2: 582} t=0s
+n=7 AAAAAAC_c1 vars=48 max_degree=2 degrees={2: 438} t=0s
+n=7 AAAAAAC_c2 vars=44 max_degree=2 degrees={2: 310} t=0s
+n=7 AAAAAAC_c3 vars=48 max_degree=2 degrees={2: 438} t=0s
+n=7 AAAAAAD_c0 vars=64 max_degree=2 degrees={2: 817} t=0s
+n=7 AAAAAAD_c1 vars=64 max_degree=2 degrees={2: 817} t=0s
+n=7 AAAAAAD_c2 vars=64 max_degree=2 degrees={2: 817} t=0s
+n=7 AAAAAAD_c3 vars=64 max_degree=2 degrees={2: 817} t=0s
+n=7 AAAAABB_c0 vars=32 max_degree=2 degrees={2: 155} t=0s
+n=7 AAAAABB_c1 vars=32 max_degree=2 degrees={2: 155} t=0s
+n=7 AAAAABB_c2 vars=32 max_degree=2 degrees={2: 155} t=0s
+n=7 AAAAABB_c3 vars=32 max_degree=2 degrees={2: 155} t=0s
+n=7 AAAAABC_c0 vars=48 max_degree=2 degrees={2: 409} t=0s
+n=7 AAAAABC_c1 vars=48 max_degree=2 degrees={2: 409} t=0s
+n=7 AAAAABC_c2 vars=48 max_degree=2 degrees={2: 409} t=0s
+n=7 AAAAABC_c3 vars=48 max_degree=2 degrees={2: 409} t=0s
+n=7 AAAAABD_c0 vars=64 max_degree=2 degrees={2: 768} t=1s
+n=7 AAAAABD_c1 vars=64 max_degree=2 degrees={2: 768} t=1s
+n=7 AAAAABD_c2 vars=64 max_degree=2 degrees={2: 768} t=0s
+n=7 AAAAABD_c3 vars=64 max_degree=2 degrees={2: 768} t=1s
+n=7 AAAAACC_c0 vars=74 max_degree=2 degrees={2: 1171} t=1s
+n=7 AAAAACC_c1 vars=74 max_degree=2 degrees={2: 1171} t=1s
+n=7 AAAAACC_c2 vars=70 max_degree=2 degrees={2: 953} t=1s
+n=7 AAAAACC_c3 vars=70 max_degree=2 degrees={2: 953} t=0s
+n=7 AAAAACD_c0 vars=96 max_degree=2 degrees={2: 1970} t=6s
+n=7 AAAAACD_c1 vars=96 max_degree=2 degrees={2: 1970} t=6s
+n=7 AAAAACD_c2 vars=96 max_degree=2 degrees={2: 1970} t=6s
+n=7 AAAAACD_c3 vars=96 max_degree=2 degrees={2: 1970} t=6s
+n=7 AAAAADD_c0 vars=128 max_degree=2 degrees={2: 3652} t=115s
+n=7 AAAAADD_c1 vars=128 max_degree=2 degrees={2: 3652} t=116s
+n=7 AAAAADD_c2 vars=128 max_degree=2 degrees={2: 3652} t=111s
+n=7 AAAAADD_c3 vars=128 max_degree=2 degrees={2: 3652} t=90s
+n=7 AAAABBB_c0 vars=32 max_degree=2 degrees={2: 158} t=0s
+n=7 AAAABBB_c1 vars=32 max_degree=2 degrees={2: 159} t=0s
+n=7 AAAABBB_c2 vars=32 max_degree=2 degrees={2: 158} t=0s
+n=7 AAAABBB_c3 vars=32 max_degree=2 degrees={2: 159} t=0s
+n=7 AAAABBC_c0 vars=48 max_degree=2 degrees={2: 398} t=0s
+n=7 AAAABBC_c1 vars=48 max_degree=2 degrees={2: 398} t=0s
+n=7 AAAABBC_c2 vars=48 max_degree=2 degrees={2: 398} t=0s
+n=7 AAAABBC_c3 vars=48 max_degree=2 degrees={2: 398} t=0s
+n=7 AAAABBD_c0 vars=64 max_degree=2 degrees={2: 749} t=1s
+n=7 AAAABBD_c1 vars=64 max_degree=2 degrees={2: 749} t=1s
+n=7 AAAABBD_c2 vars=64 max_degree=2 degrees={2: 749} t=1s
+n=7 AAAABBD_c3 vars=64 max_degree=2 degrees={2: 749} t=1s
+n=7 AAAABCC_c0 vars=72 max_degree=2 degrees={2: 1018} t=1s
+n=7 AAAABCC_c1 vars=72 max_degree=2 degrees={2: 1018} t=2s
+n=7 AAAABCC_c2 vars=72 max_degree=2 degrees={2: 1018} t=2s
+n=7 AAAABCC_c3 vars=72 max_degree=2 degrees={2: 1018} t=1s
+n=7 AAAABCD_c0 vars=96 max_degree=2 degrees={2: 1904} t=16s
+n=7 AAAABCD_c1 vars=96 max_degree=2 degrees={2: 1904} t=16s
+n=7 AAAABCD_c2 vars=96 max_degree=2 degrees={2: 1904} t=17s
+n=7 AAAABCD_c3 vars=96 max_degree=2 degrees={2: 1904} t=16s
+n=7 AAAABDD_c0 vars=128 max_degree=4 degrees={2: 3554, 4: 16} t=189s
+n=7 AAAABDD_c1 vars=128 max_degree=4 degrees={2: 3554, 4: 16} t=150s
+n=7 AAAABDD_c2 vars=128 max_degree=4 degrees={2: 3554, 4: 16} t=52s
+n=7 AAAABDD_c3 vars=128 max_degree=4 degrees={2: 3554, 4: 16} t=51s
+n=7 AAAACCC_c0 vars=108 max_degree=3 degrees={2: 2580, 3: 4} t=10s
+n=7 AAAACCC_c1 vars=110 max_degree=3 degrees={2: 2755, 3: 6} t=18s
+n=7 AAAACCC_c2 vars=108 max_degree=3 degrees={2: 2580, 3: 4} t=15s
+n=7 AAAACCC_c3 vars=106 max_degree=3 degrees={2: 2409, 3: 2} t=16s
+n=7 AAAACCD_c0 vars=144 max_degree=3 degrees={2: 4788, 3: 16} t=198s
+n=7 AAAACCD_c1 vars=144 max_degree=3 degrees={2: 4788, 3: 16} t=198s
+n=7 AAAACCD_c2 vars=144 max_degree=3 degrees={2: 4788, 3: 16} t=176s
+n=7 AAAACCD_c3 vars=144 max_degree=3 degrees={2: 4788, 3: 16} t=124s
+n=7 AAAACDD_c0 vars=192 SKIP(size)
+n=7 AAAACDD_c1 vars=192 SKIP(size)
+n=7 AAAACDD_c2 vars=192 SKIP(size)
+n=7 AAAACDD_c3 vars=192 SKIP(size)
+n=7 AAAADDD_c0 vars=256 SKIP(size)
+n=7 AAAADDD_c1 vars=256 SKIP(size)
+n=7 AAAADDD_c2 vars=256 SKIP(size)
+n=7 AAAADDD_c3 vars=256 SKIP(size)
+n=7 AAABBBB_c0 vars=32 max_degree=2 degrees={2: 177} t=0s
+n=7 AAABBBB_c1 vars=32 max_degree=2 degrees={2: 177} t=0s
+n=7 AAABBBB_c2 vars=32 max_degree=2 degrees={2: 177} t=0s
+n=7 AAABBBB_c3 vars=32 max_degree=2 degrees={2: 177} t=0s
+n=7 AAABBBC_c0 vars=48 max_degree=2 degrees={2: 413} t=0s
+n=7 AAABBBC_c1 vars=48 max_degree=2 degrees={2: 413} t=0s
+n=7 AAABBBC_c2 vars=48 max_degree=2 degrees={2: 413} t=0s
+n=7 AAABBBC_c3 vars=48 max_degree=2 degrees={2: 413} t=0s
+n=7 AAABBBD_c0 vars=64 max_degree=2 degrees={2: 772} t=0s
+n=7 AAABBBD_c1 vars=64 max_degree=2 degrees={2: 772} t=0s
+n=7 AAABBBD_c2 vars=64 max_degree=2 degrees={2: 772} t=0s
+n=7 AAABBBD_c3 vars=64 max_degree=2 degrees={2: 772} t=0s
+n=7 AAABBCC_c0 vars=72 max_degree=2 degrees={2: 1014} t=0s
+n=7 AAABBCC_c1 vars=72 max_degree=2 degrees={2: 1014} t=0s
+n=7 AAABBCC_c2 vars=72 max_degree=2 degrees={2: 1014} t=0s
+n=7 AAABBCC_c3 vars=72 max_degree=2 degrees={2: 1014} t=0s
+n=7 AAABBCD_c0 vars=96 max_degree=2 degrees={2: 1898} t=3s
+n=7 AAABBCD_c1 vars=96 max_degree=2 degrees={2: 1898} t=3s
+n=7 AAABBCD_c2 vars=96 max_degree=2 degrees={2: 1898} t=3s
+n=7 AAABBCD_c3 vars=96 max_degree=2 degrees={2: 1898} t=3s
+n=7 AAABBDD_c0 vars=128 max_degree=4 degrees={2: 3548, 4: 32} t=40s
+n=7 AAABBDD_c1 vars=128 max_degree=4 degrees={2: 3548, 4: 32} t=40s
+n=7 AAABBDD_c2 vars=128 max_degree=4 degrees={2: 3548, 4: 32} t=39s
+n=7 AAABBDD_c3 vars=128 max_degree=4 degrees={2: 3548, 4: 32} t=40s
+n=7 AAABCCC_c0 vars=108 max_degree=3 degrees={2: 2531, 3: 4} t=8s
+n=7 AAABCCC_c1 vars=108 max_degree=3 degrees={2: 2531, 3: 4} t=8s
+n=7 AAABCCC_c2 vars=108 max_degree=3 degrees={2: 2531, 3: 4} t=9s
+n=7 AAABCCC_c3 vars=108 max_degree=3 degrees={2: 2531, 3: 4} t=9s
+n=7 AAABCCD_c0 vars=144 max_degree=3 degrees={2: 4716, 3: 16} t=96s
+n=7 AAABCCD_c1 vars=144 max_degree=3 degrees={2: 4716, 3: 16} t=98s
+n=7 AAABCCD_c2 vars=144 max_degree=3 degrees={2: 4716, 3: 16} t=97s
+n=7 AAABCCD_c3 vars=144 max_degree=3 degrees={2: 4716, 3: 16} t=97s
+n=7 AAABCDD_c0 vars=192 SKIP(size)
+n=7 AAABCDD_c1 vars=192 SKIP(size)
+n=7 AAABCDD_c2 vars=192 SKIP(size)
+n=7 AAABCDD_c3 vars=192 SKIP(size)
+n=7 AAABDDD_c0 vars=256 SKIP(size)
+n=7 AAABDDD_c1 vars=256 SKIP(size)
+n=7 AAABDDD_c2 vars=256 SKIP(size)
+n=7 AAABDDD_c3 vars=256 SKIP(size)
+n=7 AAACCCC_c0 vars=161 SKIP(size)
+n=7 AAACCCC_c1 vars=163 SKIP(size)
+n=7 AAACCCC_c2 vars=163 SKIP(size)
+n=7 AAACCCC_c3 vars=161 SKIP(size)
+n=7 AAACCCD_c0 vars=216 SKIP(size)
+n=7 AAACCCD_c1 vars=216 SKIP(size)
+n=7 AAACCCD_c2 vars=216 SKIP(size)
+n=7 AAACCCD_c3 vars=216 SKIP(size)
+n=7 AAACCDD_c0 vars=288 SKIP(size)
+n=7 AAACCDD_c1 vars=288 SKIP(size)
+n=7 AAACCDD_c2 vars=288 SKIP(size)
+n=7 AAACCDD_c3 vars=288 SKIP(size)
+n=7 AAACDDD_c0 vars=384 SKIP(size)
+n=7 AAACDDD_c1 vars=384 SKIP(size)
+n=7 AAACDDD_c2 vars=384 SKIP(size)
+n=7 AAACDDD_c3 vars=384 SKIP(size)
+n=7 AAADDDD_c0 vars=512 SKIP(size)
+n=7 AAADDDD_c1 vars=512 SKIP(size)
+n=7 AAADDDD_c2 vars=512 SKIP(size)
+n=7 AAADDDD_c3 vars=512 SKIP(size)
+n=7 AABBBBB_c0 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 AABBBBB_c1 vars=32 max_degree=2 degrees={2: 210} t=0s
+n=7 AABBBBB_c2 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 AABBBBB_c3 vars=32 max_degree=2 degrees={2: 210} t=0s
+n=7 AABBBBC_c0 vars=48 max_degree=2 degrees={2: 452} t=0s
+n=7 AABBBBC_c1 vars=48 max_degree=2 degrees={2: 460} t=0s
+n=7 AABBBBC_c2 vars=48 max_degree=2 degrees={2: 452} t=0s
+n=7 AABBBBC_c3 vars=48 max_degree=2 degrees={2: 460} t=0s
+n=7 AABBBBD_c0 vars=64 max_degree=2 degrees={2: 845} t=0s
+n=7 AABBBBD_c1 vars=64 max_degree=2 degrees={2: 845} t=0s
+n=7 AABBBBD_c2 vars=64 max_degree=2 degrees={2: 845} t=0s
+n=7 AABBBBD_c3 vars=64 max_degree=2 degrees={2: 845} t=0s
+n=7 AABBBCC_c0 vars=72 max_degree=2 degrees={2: 1058} t=0s
+n=7 AABBBCC_c1 vars=72 max_degree=2 degrees={2: 1062} t=0s
+n=7 AABBBCC_c2 vars=72 max_degree=2 degrees={2: 1058} t=0s
+n=7 AABBBCC_c3 vars=72 max_degree=2 degrees={2: 1062} t=0s
+n=7 AABBBCD_c0 vars=96 max_degree=2 degrees={2: 1972} t=2s
+n=7 AABBBCD_c1 vars=96 max_degree=2 degrees={2: 1972} t=2s
+n=7 AABBBCD_c2 vars=96 max_degree=2 degrees={2: 1972} t=2s
+n=7 AABBBCD_c3 vars=96 max_degree=2 degrees={2: 1972} t=2s
+n=7 AABBBDD_c0 vars=128 max_degree=4 degrees={2: 3666, 4: 48} t=20s
+n=7 AABBBDD_c1 vars=128 max_degree=4 degrees={2: 3666, 4: 48} t=20s
+n=7 AABBBDD_c2 vars=128 max_degree=4 degrees={2: 3666, 4: 48} t=20s
+n=7 AABBBDD_c3 vars=128 max_degree=4 degrees={2: 3666, 4: 48} t=20s
+n=7 AABBCCC_c0 vars=108 max_degree=3 degrees={2: 2556, 3: 4} t=8s
+n=7 AABBCCC_c1 vars=108 max_degree=3 degrees={2: 2558, 3: 4} t=10s
+n=7 AABBCCC_c2 vars=108 max_degree=3 degrees={2: 2556, 3: 4} t=8s
+n=7 AABBCCC_c3 vars=108 max_degree=3 degrees={2: 2558, 3: 4} t=5s
+n=7 AABBCCD_c0 vars=144 max_degree=3 degrees={2: 4760, 3: 16} t=91s
+n=7 AABBCCD_c1 vars=144 max_degree=3 degrees={2: 4760, 3: 16} t=95s
+n=7 AABBCCD_c2 vars=144 max_degree=3 degrees={2: 4760, 3: 16} t=92s
+n=7 AABBCCD_c3 vars=144 max_degree=3 degrees={2: 4760, 3: 16} t=96s
+n=7 AABBCDD_c0 vars=192 SKIP(size)
+n=7 AABBCDD_c1 vars=192 SKIP(size)
+n=7 AABBCDD_c2 vars=192 SKIP(size)
+n=7 AABBCDD_c3 vars=192 SKIP(size)
+n=7 AABBDDD_c0 vars=256 SKIP(size)
+n=7 AABBDDD_c1 vars=256 SKIP(size)
+n=7 AABBDDD_c2 vars=256 SKIP(size)
+n=7 AABBDDD_c3 vars=256 SKIP(size)
+n=7 AABCCCC_c0 vars=162 SKIP(size)
+n=7 AABCCCC_c1 vars=162 SKIP(size)
+n=7 AABCCCC_c2 vars=162 SKIP(size)
+n=7 AABCCCC_c3 vars=162 SKIP(size)
+n=7 AABCCCD_c0 vars=216 SKIP(size)
+n=7 AABCCCD_c1 vars=216 SKIP(size)
+n=7 AABCCCD_c2 vars=216 SKIP(size)
+n=7 AABCCCD_c3 vars=216 SKIP(size)
+n=7 AABCCDD_c0 vars=288 SKIP(size)
+n=7 AABCCDD_c1 vars=288 SKIP(size)
+n=7 AABCCDD_c2 vars=288 SKIP(size)
+n=7 AABCCDD_c3 vars=288 SKIP(size)
+n=7 AABCDDD_c0 vars=384 SKIP(size)
+n=7 AABCDDD_c1 vars=384 SKIP(size)
+n=7 AABCDDD_c2 vars=384 SKIP(size)
+n=7 AABCDDD_c3 vars=384 SKIP(size)
+n=7 AABDDDD_c0 vars=512 SKIP(size)
+n=7 AABDDDD_c1 vars=512 SKIP(size)
+n=7 AABDDDD_c2 vars=512 SKIP(size)
+n=7 AABDDDD_c3 vars=512 SKIP(size)
+n=7 AACCCCC_c0 vars=242 SKIP(size)
+n=7 AACCCCC_c1 vars=243 SKIP(size)
+n=7 AACCCCC_c2 vars=244 SKIP(size)
+n=7 AACCCCC_c3 vars=243 SKIP(size)
+n=7 AACCCCD_c0 vars=324 SKIP(size)
+n=7 AACCCCD_c1 vars=324 SKIP(size)
+n=7 AACCCCD_c2 vars=324 SKIP(size)
+n=7 AACCCCD_c3 vars=324 SKIP(size)
+n=7 AACCCDD_c0 vars=432 SKIP(size)
+n=7 AACCCDD_c1 vars=432 SKIP(size)
+n=7 AACCCDD_c2 vars=432 SKIP(size)
+n=7 AACCCDD_c3 vars=432 SKIP(size)
+n=7 AACCDDD_c0 vars=576 SKIP(size)
+n=7 AACCDDD_c1 vars=576 SKIP(size)
+n=7 AACCDDD_c2 vars=576 SKIP(size)
+n=7 AACCDDD_c3 vars=576 SKIP(size)
+n=7 AACDDDD_c0 vars=768 SKIP(size)
+n=7 AACDDDD_c1 vars=768 SKIP(size)
+n=7 AACDDDD_c2 vars=768 SKIP(size)
+n=7 AACDDDD_c3 vars=768 SKIP(size)
+n=7 AADDDDD_c0 vars=1024 SKIP(size)
+n=7 AADDDDD_c1 vars=1024 SKIP(size)
+n=7 AADDDDD_c2 vars=1024 SKIP(size)
+n=7 AADDDDD_c3 vars=1024 SKIP(size)
+n=7 ABBBBBB_c0 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 ABBBBBB_c1 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 ABBBBBB_c2 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 ABBBBBB_c3 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 ABBBBBC_c0 vars=48 max_degree=2 degrees={2: 510} t=0s
+n=7 ABBBBBC_c1 vars=48 max_degree=2 degrees={2: 510} t=0s
+n=7 ABBBBBC_c2 vars=48 max_degree=2 degrees={2: 510} t=0s
+n=7 ABBBBBC_c3 vars=48 max_degree=2 degrees={2: 510} t=0s
+n=7 ABBBBBD_c0 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 ABBBBBD_c1 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 ABBBBBD_c2 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 ABBBBBD_c3 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 ABBBBCC_c0 vars=72 max_degree=2 degrees={2: 1158} t=0s
+n=7 ABBBBCC_c1 vars=72 max_degree=2 degrees={2: 1158} t=0s
+n=7 ABBBBCC_c2 vars=72 max_degree=2 degrees={2: 1158} t=0s
+n=7 ABBBBCC_c3 vars=72 max_degree=2 degrees={2: 1158} t=0s
+n=7 ABBBBCD_c0 vars=96 max_degree=2 degrees={2: 2140} t=2s
+n=7 ABBBBCD_c1 vars=96 max_degree=2 degrees={2: 2140} t=2s
+n=7 ABBBBCD_c2 vars=96 max_degree=2 degrees={2: 2140} t=2s
+n=7 ABBBBCD_c3 vars=96 max_degree=2 degrees={2: 2140} t=2s
+n=7 ABBBBDD_c0 vars=128 max_degree=4 degrees={2: 3940, 4: 64} t=20s
+n=7 ABBBBDD_c1 vars=128 max_degree=4 degrees={2: 3940, 4: 64} t=22s
+n=7 ABBBBDD_c2 vars=128 max_degree=4 degrees={2: 3940, 4: 64} t=20s
+n=7 ABBBBDD_c3 vars=128 max_degree=4 degrees={2: 3940, 4: 64} t=21s
+n=7 ABBBCCC_c0 vars=108 max_degree=3 degrees={2: 2678, 3: 4} t=6s
+n=7 ABBBCCC_c1 vars=108 max_degree=3 degrees={2: 2678, 3: 4} t=8s
+n=7 ABBBCCC_c2 vars=108 max_degree=3 degrees={2: 2678, 3: 4} t=6s
+n=7 ABBBCCC_c3 vars=108 max_degree=3 degrees={2: 2678, 3: 4} t=6s
+n=7 ABBBCCD_c0 vars=144 max_degree=3 degrees={2: 4956, 3: 16} t=64s
+n=7 ABBBCCD_c1 vars=144 max_degree=3 degrees={2: 4956, 3: 16} t=63s
+n=7 ABBBCCD_c2 vars=144 max_degree=3 degrees={2: 4956, 3: 16} t=63s
+n=7 ABBBCCD_c3 vars=144 max_degree=3 degrees={2: 4956, 3: 16} t=63s
+n=7 ABBBCDD_c0 vars=192 SKIP(size)
+n=7 ABBBCDD_c1 vars=192 SKIP(size)
+n=7 ABBBCDD_c2 vars=192 SKIP(size)
+n=7 ABBBCDD_c3 vars=192 SKIP(size)
+n=7 ABBBDDD_c0 vars=256 SKIP(size)
+n=7 ABBBDDD_c1 vars=256 SKIP(size)
+n=7 ABBBDDD_c2 vars=256 SKIP(size)
+n=7 ABBBDDD_c3 vars=256 SKIP(size)
+n=7 ABBCCCC_c0 vars=162 SKIP(size)
+n=7 ABBCCCC_c1 vars=162 SKIP(size)
+n=7 ABBCCCC_c2 vars=162 SKIP(size)
+n=7 ABBCCCC_c3 vars=162 SKIP(size)
+n=7 ABBCCCD_c0 vars=216 SKIP(size)
+n=7 ABBCCCD_c1 vars=216 SKIP(size)
+n=7 ABBCCCD_c2 vars=216 SKIP(size)
+n=7 ABBCCCD_c3 vars=216 SKIP(size)
+n=7 ABBCCDD_c0 vars=288 SKIP(size)
+n=7 ABBCCDD_c1 vars=288 SKIP(size)
+n=7 ABBCCDD_c2 vars=288 SKIP(size)
+n=7 ABBCCDD_c3 vars=288 SKIP(size)
+n=7 ABBCDDD_c0 vars=384 SKIP(size)
+n=7 ABBCDDD_c1 vars=384 SKIP(size)
+n=7 ABBCDDD_c2 vars=384 SKIP(size)
+n=7 ABBCDDD_c3 vars=384 SKIP(size)
+n=7 ABBDDDD_c0 vars=512 SKIP(size)
+n=7 ABBDDDD_c1 vars=512 SKIP(size)
+n=7 ABBDDDD_c2 vars=512 SKIP(size)
+n=7 ABBDDDD_c3 vars=512 SKIP(size)
+n=7 ABCCCCC_c0 vars=243 SKIP(size)
+n=7 ABCCCCC_c1 vars=243 SKIP(size)
+n=7 ABCCCCC_c2 vars=243 SKIP(size)
+n=7 ABCCCCC_c3 vars=243 SKIP(size)
+n=7 ABCCCCD_c0 vars=324 SKIP(size)
+n=7 ABCCCCD_c1 vars=324 SKIP(size)
+n=7 ABCCCCD_c2 vars=324 SKIP(size)
+n=7 ABCCCCD_c3 vars=324 SKIP(size)
+n=7 ABCCCDD_c0 vars=432 SKIP(size)
+n=7 ABCCCDD_c1 vars=432 SKIP(size)
+n=7 ABCCCDD_c2 vars=432 SKIP(size)
+n=7 ABCCCDD_c3 vars=432 SKIP(size)
+n=7 ABCCDDD_c0 vars=576 SKIP(size)
+n=7 ABCCDDD_c1 vars=576 SKIP(size)
+n=7 ABCCDDD_c2 vars=576 SKIP(size)
+n=7 ABCCDDD_c3 vars=576 SKIP(size)
+n=7 ABCDDDD_c0 vars=768 SKIP(size)
+n=7 ABCDDDD_c1 vars=768 SKIP(size)
+n=7 ABCDDDD_c2 vars=768 SKIP(size)
+n=7 ABCDDDD_c3 vars=768 SKIP(size)
+n=7 ABDDDDD_c0 vars=1024 SKIP(size)
+n=7 ABDDDDD_c1 vars=1024 SKIP(size)
+n=7 ABDDDDD_c2 vars=1024 SKIP(size)
+n=7 ABDDDDD_c3 vars=1024 SKIP(size)
+n=7 ACCCCCC_c0 vars=364 SKIP(size)
+n=7 ACCCCCC_c1 vars=364 SKIP(size)
+n=7 ACCCCCC_c2 vars=365 SKIP(size)
+n=7 ACCCCCC_c3 vars=365 SKIP(size)
+n=7 ACCCCCD_c0 vars=486 SKIP(size)
+n=7 ACCCCCD_c1 vars=486 SKIP(size)
+n=7 ACCCCCD_c2 vars=486 SKIP(size)
+n=7 ACCCCCD_c3 vars=486 SKIP(size)
+n=7 ACCCCDD_c0 vars=648 SKIP(size)
+n=7 ACCCCDD_c1 vars=648 SKIP(size)
+n=7 ACCCCDD_c2 vars=648 SKIP(size)
+n=7 ACCCCDD_c3 vars=648 SKIP(size)
+n=7 ACCCDDD_c0 vars=864 SKIP(size)
+n=7 ACCCDDD_c1 vars=864 SKIP(size)
+n=7 ACCCDDD_c2 vars=864 SKIP(size)
+n=7 ACCCDDD_c3 vars=864 SKIP(size)
+n=7 ACCDDDD_c0 vars=1152 SKIP(size)
+n=7 ACCDDDD_c1 vars=1152 SKIP(size)
+n=7 ACCDDDD_c2 vars=1152 SKIP(size)
+n=7 ACCDDDD_c3 vars=1152 SKIP(size)
+n=7 ACDDDDD_c0 vars=1536 SKIP(size)
+n=7 ACDDDDD_c1 vars=1536 SKIP(size)
+n=7 ACDDDDD_c2 vars=1536 SKIP(size)
+n=7 ACDDDDD_c3 vars=1536 SKIP(size)
+n=7 ADDDDDD_c0 vars=2048 SKIP(size)
+n=7 ADDDDDD_c1 vars=2048 SKIP(size)
+n=7 ADDDDDD_c2 vars=2048 SKIP(size)
+n=7 ADDDDDD_c3 vars=2048 SKIP(size)
+n=7 BBBBBBB_c0 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBB_c2 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBC_c0 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBC_c1 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 BBBBBBC_c2 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBC_c3 vars=32 max_degree=2 degrees={2: 195} t=0s
+n=7 BBBBBBD_c0 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBD_c1 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBD_c2 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBBD_c3 vars=64 max_degree=2 degrees={2: 1050} t=0s
+n=7 BBBBBCC_c0 vars=80 max_degree=2 degrees={2: 1650} t=1s
+n=7 BBBBBCC_c1 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 BBBBBCC_c2 vars=80 max_degree=2 degrees={2: 1650} t=1s
+n=7 BBBBBCC_c3 vars=64 max_degree=2 degrees={2: 960} t=0s
+n=7 BBBBBCD_c0 vars=96 max_degree=2 degrees={2: 2385} t=1s
+n=7 BBBBBCD_c1 vars=96 max_degree=2 degrees={2: 2385} t=1s
+n=7 BBBBBCD_c2 vars=96 max_degree=2 degrees={2: 2385} t=2s
+n=7 BBBBBCD_c3 vars=96 max_degree=2 degrees={2: 2385} t=1s
+n=7 BBBBBDD_c0 vars=128 max_degree=4 degrees={2: 4380, 4: 80} t=11s
+n=7 BBBBBDD_c1 vars=128 max_degree=4 degrees={2: 4380, 4: 80} t=11s
+n=7 BBBBBDD_c2 vars=128 max_degree=4 degrees={2: 4380, 4: 80} t=11s
+n=7 BBBBBDD_c3 vars=128 max_degree=4 degrees={2: 4380, 4: 80} t=11s
+n=7 BBBBCCC_c0 vars=112 max_degree=2 degrees={2: 3180} t=5s
+n=7 BBBBCCC_c1 vars=104 max_degree=3 degrees={2: 2628, 3: 8} t=3s
+n=7 BBBBCCC_c2 vars=112 max_degree=2 degrees={2: 3180} t=6s
+n=7 BBBBCCC_c3 vars=104 max_degree=3 degrees={2: 2628, 3: 8} t=3s
+n=7 BBBBCCD_c0 vars=144 max_degree=3 degrees={2: 5330, 3: 16} t=37s
+n=7 BBBBCCD_c1 vars=144 max_degree=3 degrees={2: 5330, 3: 16} t=37s
+n=7 BBBBCCD_c2 vars=144 max_degree=3 degrees={2: 5330, 3: 16} t=37s
+n=7 BBBBCCD_c3 vars=144 max_degree=3 degrees={2: 5330, 3: 16} t=37s
+n=7 BBBBCDD_c0 vars=192 SKIP(size)
+n=7 BBBBCDD_c1 vars=192 SKIP(size)
+n=7 BBBBCDD_c2 vars=192 SKIP(size)
+n=7 BBBBCDD_c3 vars=192 SKIP(size)
+n=7 BBBBDDD_c0 vars=256 SKIP(size)
+n=7 BBBBDDD_c1 vars=256 SKIP(size)
+n=7 BBBBDDD_c2 vars=256 SKIP(size)
+n=7 BBBBDDD_c3 vars=256 SKIP(size)
+n=7 BBBCCCC_c0 vars=164 SKIP(size)
+n=7 BBBCCCC_c1 vars=160 max_degree=3 degrees={2: 6448, 3: 32} t=102s
+n=7 BBBCCCC_c2 vars=164 SKIP(size)
+n=7 BBBCCCC_c3 vars=160 max_degree=3 degrees={2: 6448, 3: 32} t=97s
+n=7 BBBCCCD_c0 vars=216 SKIP(size)
+n=7 BBBCCCD_c1 vars=216 SKIP(size)
+n=7 BBBCCCD_c2 vars=216 SKIP(size)
+n=7 BBBCCCD_c3 vars=216 SKIP(size)
+n=7 BBBCCDD_c0 vars=288 SKIP(size)
+n=7 BBBCCDD_c1 vars=288 SKIP(size)
+n=7 BBBCCDD_c2 vars=288 SKIP(size)
+n=7 BBBCCDD_c3 vars=288 SKIP(size)
+n=7 BBBCDDD_c0 vars=384 SKIP(size)
+n=7 BBBCDDD_c1 vars=384 SKIP(size)
+n=7 BBBCDDD_c2 vars=384 SKIP(size)
+n=7 BBBCDDD_c3 vars=384 SKIP(size)
+n=7 BBBDDDD_c0 vars=512 SKIP(size)
+n=7 BBBDDDD_c1 vars=512 SKIP(size)
+n=7 BBBDDDD_c2 vars=512 SKIP(size)
+n=7 BBBDDDD_c3 vars=512 SKIP(size)
+n=7 BBCCCCC_c0 vars=244 SKIP(size)
+n=7 BBCCCCC_c1 vars=242 SKIP(size)
+n=7 BBCCCCC_c2 vars=244 SKIP(size)
+n=7 BBCCCCC_c3 vars=242 SKIP(size)
+n=7 BBCCCCD_c0 vars=324 SKIP(size)
+n=7 BBCCCCD_c1 vars=324 SKIP(size)
+n=7 BBCCCCD_c2 vars=324 SKIP(size)
+n=7 BBCCCCD_c3 vars=324 SKIP(size)
+n=7 BBCCCDD_c0 vars=432 SKIP(size)
+n=7 BBCCCDD_c1 vars=432 SKIP(size)
+n=7 BBCCCDD_c2 vars=432 SKIP(size)
+n=7 BBCCCDD_c3 vars=432 SKIP(size)
+n=7 BBCCDDD_c0 vars=576 SKIP(size)
+n=7 BBCCDDD_c1 vars=576 SKIP(size)
+n=7 BBCCDDD_c2 vars=576 SKIP(size)
+n=7 BBCCDDD_c3 vars=576 SKIP(size)
+n=7 BBCDDDD_c0 vars=768 SKIP(size)
+n=7 BBCDDDD_c1 vars=768 SKIP(size)
+n=7 BBCDDDD_c2 vars=768 SKIP(size)
+n=7 BBCDDDD_c3 vars=768 SKIP(size)
+n=7 BBDDDDD_c0 vars=1024 SKIP(size)
+n=7 BBDDDDD_c1 vars=1024 SKIP(size)
+n=7 BBDDDDD_c2 vars=1024 SKIP(size)
+n=7 BBDDDDD_c3 vars=1024 SKIP(size)
+n=7 BCCCCCC_c0 vars=365 SKIP(size)
+n=7 BCCCCCC_c1 vars=364 SKIP(size)
+n=7 BCCCCCC_c2 vars=365 SKIP(size)
+n=7 BCCCCCC_c3 vars=364 SKIP(size)
+n=7 BCCCCCD_c0 vars=486 SKIP(size)
+n=7 BCCCCCD_c1 vars=486 SKIP(size)
+n=7 BCCCCCD_c2 vars=486 SKIP(size)
+n=7 BCCCCCD_c3 vars=486 SKIP(size)
+n=7 BCCCCDD_c0 vars=648 SKIP(size)
+n=7 BCCCCDD_c1 vars=648 SKIP(size)
+n=7 BCCCCDD_c2 vars=648 SKIP(size)
+n=7 BCCCCDD_c3 vars=648 SKIP(size)
+n=7 BCCCDDD_c0 vars=864 SKIP(size)
+n=7 BCCCDDD_c1 vars=864 SKIP(size)
+n=7 BCCCDDD_c2 vars=864 SKIP(size)
+n=7 BCCCDDD_c3 vars=864 SKIP(size)
+n=7 BCCDDDD_c0 vars=1152 SKIP(size)
+n=7 BCCDDDD_c1 vars=1152 SKIP(size)
+n=7 BCCDDDD_c2 vars=1152 SKIP(size)
+n=7 BCCDDDD_c3 vars=1152 SKIP(size)
+n=7 BCDDDDD_c0 vars=1536 SKIP(size)
+n=7 BCDDDDD_c1 vars=1536 SKIP(size)
+n=7 BCDDDDD_c2 vars=1536 SKIP(size)
+n=7 BCDDDDD_c3 vars=1536 SKIP(size)
+n=7 BDDDDDD_c0 vars=2048 SKIP(size)
+n=7 BDDDDDD_c1 vars=2048 SKIP(size)
+n=7 BDDDDDD_c2 vars=2048 SKIP(size)
+n=7 BDDDDDD_c3 vars=2048 SKIP(size)
+n=7 CCCCCCC_c0 vars=547 SKIP(size)
+n=7 CCCCCCC_c1 vars=546 SKIP(size)
+n=7 CCCCCCC_c2 vars=547 SKIP(size)
+n=7 CCCCCCC_c3 vars=547 SKIP(size)
+n=7 CCCCCCD_c0 vars=729 SKIP(size)
+n=7 CCCCCCD_c1 vars=729 SKIP(size)
+n=7 CCCCCCD_c2 vars=729 SKIP(size)
+n=7 CCCCCCD_c3 vars=729 SKIP(size)
+n=7 CCCCCDD_c0 vars=972 SKIP(size)
+n=7 CCCCCDD_c1 vars=972 SKIP(size)
+n=7 CCCCCDD_c2 vars=972 SKIP(size)
+n=7 CCCCCDD_c3 vars=972 SKIP(size)
+n=7 CCCCDDD_c0 vars=1296 SKIP(size)
+n=7 CCCCDDD_c1 vars=1296 SKIP(size)
+n=7 CCCCDDD_c2 vars=1296 SKIP(size)
+n=7 CCCCDDD_c3 vars=1296 SKIP(size)
+n=7 CCCDDDD_c0 vars=1728 SKIP(size)
+n=7 CCCDDDD_c1 vars=1728 SKIP(size)
+n=7 CCCDDDD_c2 vars=1728 SKIP(size)
+n=7 CCCDDDD_c3 vars=1728 SKIP(size)
+n=7 CCDDDDD_c0 vars=2304 SKIP(size)
+n=7 CCDDDDD_c1 vars=2304 SKIP(size)
+n=7 CCDDDDD_c2 vars=2304 SKIP(size)
+n=7 CCDDDDD_c3 vars=2304 SKIP(size)
+n=7 CDDDDDD_c0 vars=3072 SKIP(size)
+n=7 CDDDDDD_c1 vars=3072 SKIP(size)
+n=7 CDDDDDD_c2 vars=3072 SKIP(size)
+n=7 CDDDDDD_c3 vars=3072 SKIP(size)
+n=7 DDDDDDD_c0 vars=4096 SKIP(size)
+n=7 DDDDDDD_c1 vars=4096 SKIP(size)
+n=7 DDDDDDD_c2 vars=4096 SKIP(size)
+n=7 DDDDDDD_c3 vars=4096 SKIP(size)
