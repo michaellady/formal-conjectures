@@ -591,3 +591,5 @@
 {"n": 7, "d": 5, "chunk": 590, "margins": 200, "max_fibre": 505760, "disconnected": [], "secs": 391.3}
 {"n": 7, "d": 5, "chunk": 591, "margins": 200, "max_fibre": 6975, "disconnected": [], "secs": 10.3}
 {"n": 7, "d": 5, "chunk": 592, "margins": 200, "max_fibre": 20709, "disconnected": [], "secs": 34.3}
+{"n": 7, "d": 5, "chunk": 593, "margins": 200, "max_fibre": 42640, "disconnected": [], "secs": 76.9}
+{"n": 7, "d": 5, "chunk": 594, "margins": 200, "max_fibre": 126180, "disconnected": [], "secs": 135.4}
