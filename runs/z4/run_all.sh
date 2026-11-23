@@ -42,7 +42,7 @@ checkpoint() {
     cd "$REPO"
     git add -A . >/dev/null 2>&1
     if ! git diff --cached --quiet; then
-      git -c user.name="michaellady" -c user.email="michaellady@users.noreply.github.com" commit -q -m "Z/4 search: checkpoint $(date -u +%FT%TZ)" && git push -q origin HEAD 2>>"$WORK"/push.err
+      git -c user.name="michaellady" -c user.email="michaellady@users.noreply.github.com" commit -q -m "Z/4 search: checkpoint $(date -u +%FT%TZ)" -m "Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>" -m "Claude-Session: https://claude.ai/code/session_018BGgP71Mo4NpS11fqeLnVJ" && git push -q origin HEAD 2>>"$WORK"/push.err
     fi
     cd "$WORK"
 }
