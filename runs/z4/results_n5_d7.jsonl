@@ -2022,3 +2022,6 @@
 {"n": 5, "d": 7, "chunk": 2021, "margins": 200, "max_fibre": 19168, "disconnected": [], "secs": 67.7}
 {"n": 5, "d": 7, "chunk": 2022, "margins": 200, "max_fibre": 6640, "disconnected": [], "secs": 24.8}
 {"n": 5, "d": 7, "chunk": 2023, "margins": 200, "max_fibre": 8274, "disconnected": [], "secs": 39.7}
+{"n": 5, "d": 7, "chunk": 2024, "margins": 200, "max_fibre": 25854, "disconnected": [], "secs": 109.5}
+{"n": 5, "d": 7, "chunk": 2025, "margins": 200, "max_fibre": 36668, "disconnected": [], "secs": 118.9}
+{"n": 5, "d": 7, "chunk": 2026, "margins": 200, "max_fibre": 37754, "disconnected": [], "secs": 97.3}
