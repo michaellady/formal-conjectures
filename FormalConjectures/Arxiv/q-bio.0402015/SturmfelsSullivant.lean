@@ -28,8 +28,10 @@ the Kimura 3-parameter model of DNA evolution [SS05, Conjecture 30], proved in [
 
 **The general conjecture is false.** G. Pochuev [Poc26] gave a counterexample for `G = ℤ/17` and
 `n = 3`: two compatible tables of 18 flows with no common row whose compatibility class consists of
-exactly those two tables. The counterexample is acknowledged in [Mic]. The smallest group for which
-the bound is not known is `ℤ/4`.
+exactly those two tables. The counterexample is acknowledged in [Mic]. The same mechanism already
+occurs for `ℤ/12` and `ℤ/13` (see the variants below), so `17` is not the smallest order for which
+the bound fails; orders `9`, `10` and `11` are undecided. The smallest group for which the bound is
+not known is `ℤ/4`.
 
 What survives is the conjecture that the generation degree does not depend on the number of leaves
 [Mic13, Conjecture 9.3], [MV17, Conjecture 4.3]. It is not contradicted by the counterexample, and
@@ -140,6 +142,36 @@ compatibility class contains only those two multisets.
 -/
 @[category research solved, AMS 5 13 14 92]
 theorem sturmfels_sullivant.variants.zmod_seventeen : ¬ GeneratedInDegree 3 (ZMod 17) 17 := by
+  sorry
+
+/--
+**The bound already fails for `ℤ/12`**: on three leaves the ideal is not generated in degree `12`.
+The two multisets of 13 flows below are compatible, have no flow in common, and form their whole
+compatibility class (the 18 zero-sum triples with entries in the column supports admit no other
+table with these column multisets). Found by computer search; a multiplicity `×k` means `k` copies.
+
+`A`: `(0,11,1)`, `(4,2,6)×2`, `(4,4,4)×2`, `(6,5,1)`, `(6,11,7)`, `(7,6,11)×2`, `(7,9,8)×2`,
+`(10,3,11)`, `(10,9,5)`.
+
+`B`: `(0,5,7)`, `(4,3,5)`, `(4,9,11)×3`, `(6,2,4)×2`, `(7,4,1)×2`, `(7,11,6)×2`, `(10,6,8)×2`.
+-/
+@[category research solved, AMS 5 13 14 92]
+theorem sturmfels_sullivant.variants.zmod_twelve : ¬ GeneratedInDegree 3 (ZMod 12) 12 := by
+  sorry
+
+/--
+**The bound fails for `ℤ/13`**: on three leaves the ideal is not generated in degree `13`; in fact
+not in degree `16`. The two multisets of 17 flows below are compatible, have no flow in common,
+and form their whole compatibility class. Found by computer search.
+
+`A`: `(1,7,5)`, `(1,12,0)`, `(2,3,8)×2`, `(2,5,6)`, `(4,9,0)×2`, `(5,7,1)×2`, `(6,9,11)`,
+`(6,10,10)×4`, `(7,5,1)`, `(7,12,7)×2`.
+
+`B`: `(1,5,7)×2`, `(2,10,1)×3`, `(4,3,6)`, `(4,12,10)`, `(5,3,5)`, `(5,10,11)`, `(6,7,0)×3`,
+`(6,12,8)×2`, `(7,9,10)×3`.
+-/
+@[category research solved, AMS 5 13 14 92]
+theorem sturmfels_sullivant.variants.zmod_thirteen : ¬ GeneratedInDegree 3 (ZMod 13) 16 := by
   sorry
 
 /--
