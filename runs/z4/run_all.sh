@@ -1,7 +1,14 @@
 #!/bin/bash
 # Resumable driver.  Re-run this script after any restart: finished chunks are skipped.
 # Needs: python3, git with push access to the remote of this checkout.
-cd "$(dirname "$0")"
+# Results are written to a scratch directory outside the git checkout (so the checkout is only
+# ever dirty for the instant of a checkpoint) and copied in at each checkpoint.
+REPO="$(cd "$(dirname "$0")" && pwd)"
+WORK="${WORK:-$HOME/z4-run}"
+mkdir -p "$WORK"
+cp -n "$REPO"/results_n*_d*.jsonl "$WORK"/ 2>/dev/null   # seed from the last checkpoint (resume)
+cp "$REPO"/fibre_check.py "$WORK"/
+cd "$WORK"
 JOBS="5:5 4:5 4:6 6:5 5:6 7:5 4:7 5:7 6:6 8:5 7:6 5:8"
 WORKERS=${WORKERS:-3}
 status() {
@@ -26,14 +33,20 @@ PY
 pusher() {
   while true; do
     sleep ${PUSH_EVERY:-300}
+    checkpoint
+  done
+}
+checkpoint() {
     status
+    cp results_n*_d*.jsonl STATUS.md run.log "$REPO"/ 2>/dev/null
+    cd "$REPO"
     git add -A . >/dev/null 2>&1
     if ! git diff --cached --quiet; then
-      git -c user.name="michaellady" -c user.email="michaellady@users.noreply.github.com" commit -q -m "Z/4 search: checkpoint $(date -u +%FT%TZ)" && git push -q origin HEAD 2>>push.err
+      git -c user.name="michaellady" -c user.email="michaellady@users.noreply.github.com" commit -q -m "Z/4 search: checkpoint $(date -u +%FT%TZ)" && git push -q origin HEAD 2>>"$WORK"/push.err
     fi
-  done
+    cd "$WORK"
 }
 pusher & PUSHER=$!
 trap "kill $PUSHER 2>/dev/null" EXIT
 echo "$JOBS" | tr ' ' '\n' | xargs -P "$WORKERS" -I{} sh -c 'n=$(echo {} | cut -d: -f1); d=$(echo {} | cut -d: -f2); if grep -q "\"END\"" results_n${n}_d${d}.jsonl 2>/dev/null; then echo "n=$n d=$d already complete"; else python3 fibre_check.py $n $d 200; fi' >> run.log 2>&1
-status; git add -A . >/dev/null 2>&1; git -c user.name="michaellady" -c user.email="michaellady@users.noreply.github.com" commit -q -m "Z/4 search: all listed jobs finished $(date -u +%FT%TZ)" && git push -q origin HEAD
+checkpoint
