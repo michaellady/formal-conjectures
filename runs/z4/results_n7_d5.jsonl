@@ -1025,3 +1025,4 @@
 {"n": 7, "d": 5, "chunk": 1024, "margins": 200, "max_fibre": 2536536, "disconnected": [], "secs": 492.1}
 {"n": 7, "d": 5, "chunk": 1025, "margins": 200, "max_fibre": 105271, "disconnected": [], "secs": 107.0}
 {"n": 7, "d": 5, "chunk": 1026, "margins": 200, "max_fibre": 210284, "disconnected": [], "secs": 232.0}
+{"n": 7, "d": 5, "chunk": 1027, "margins": 200, "max_fibre": 631032, "disconnected": [], "secs": 486.4}
