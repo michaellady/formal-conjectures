@@ -2017,3 +2017,5 @@
 {"n": 6, "d": 6, "chunk": 2016, "margins": 200, "max_fibre": 57774, "disconnected": [], "secs": 124.4}
 {"n": 6, "d": 6, "chunk": 2017, "margins": 200, "max_fibre": 57774, "disconnected": [], "secs": 81.7}
 {"n": 6, "d": 6, "chunk": 2018, "margins": 200, "max_fibre": 30139, "disconnected": [], "secs": 60.8}
+{"n": 6, "d": 6, "chunk": 2019, "margins": 200, "max_fibre": 86529, "disconnected": [], "secs": 188.8}
+{"n": 6, "d": 6, "chunk": 2020, "margins": 200, "max_fibre": 29723, "disconnected": [], "secs": 76.8}
