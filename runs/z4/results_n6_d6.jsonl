@@ -2004,3 +2004,7 @@
 {"n": 6, "d": 6, "chunk": 2003, "margins": 200, "max_fibre": 14664, "disconnected": [], "secs": 34.8}
 {"n": 6, "d": 6, "chunk": 2004, "margins": 200, "max_fibre": 19398, "disconnected": [], "secs": 42.9}
 {"n": 6, "d": 6, "chunk": 2005, "margins": 200, "max_fibre": 9886, "disconnected": [], "secs": 18.8}
+{"n": 6, "d": 6, "chunk": 2006, "margins": 200, "max_fibre": 14518, "disconnected": [], "secs": 47.2}
+{"n": 6, "d": 6, "chunk": 2007, "margins": 200, "max_fibre": 30486, "disconnected": [], "secs": 79.9}
+{"n": 6, "d": 6, "chunk": 2008, "margins": 200, "max_fibre": 30140, "disconnected": [], "secs": 73.9}
+{"n": 6, "d": 6, "chunk": 2009, "margins": 200, "max_fibre": 29022, "disconnected": [], "secs": 75.1}
