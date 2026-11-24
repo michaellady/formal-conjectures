@@ -5,7 +5,7 @@ cd "$(dirname "$0")"
 LIMIT=${LIMIT:-6900}; T0=$(date +%s); W=/root/z4-run
 while true; do
   if grep -qs COUNTEREXAMPLE $W/run.log; then echo "COUNTEREXAMPLE FOUND"; grep COUNTEREXAMPLE $W/run.log; break; fi
-  if [ -f $W/run.log ] && [ "$(grep -c 'finished\|already complete' $W/run.log)" -ge 12 ] && ! pgrep -f fibre_check.py >/dev/null; then echo "ALL JOBS FINISHED"; break; fi
+  if [ -f $W/run.log ] && [ "$(grep -oE 'n=[0-9]+ d=[0-9]+ (finished|already complete)' $W/run.log | awk '{print $1,$2}' | sort -u | wc -l)" -ge 12 ] && ! pgrep -f fibre_check.py >/dev/null; then echo "ALL JOBS FINISHED"; break; fi
   if ! pgrep -f run_all.sh >/dev/null; then echo "$(date -u +%T) runner not running: restarting"; PUSH_EVERY=300 nohup ./run_all.sh >> /home/user/z4-run.driver.log 2>&1 & fi
   [ $(( $(date +%s) - T0 )) -ge $LIMIT ] && { echo "cycle limit reached"; break; }
   sleep 60
