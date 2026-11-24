@@ -2008,3 +2008,6 @@
 {"n": 6, "d": 6, "chunk": 2007, "margins": 200, "max_fibre": 30486, "disconnected": [], "secs": 79.9}
 {"n": 6, "d": 6, "chunk": 2008, "margins": 200, "max_fibre": 30140, "disconnected": [], "secs": 73.9}
 {"n": 6, "d": 6, "chunk": 2009, "margins": 200, "max_fibre": 29022, "disconnected": [], "secs": 75.1}
+{"n": 6, "d": 6, "chunk": 2010, "margins": 200, "max_fibre": 40520, "disconnected": [], "secs": 99.1}
+{"n": 6, "d": 6, "chunk": 2011, "margins": 200, "max_fibre": 60609, "disconnected": [], "secs": 116.2}
+{"n": 6, "d": 6, "chunk": 2012, "margins": 200, "max_fibre": 29016, "disconnected": [], "secs": 45.6}
