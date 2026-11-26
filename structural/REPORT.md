@@ -65,7 +65,7 @@ Checked directly by linear programming for every pair with d ≤ 6. Empirically,
 | 4 leaves: quadratic moves plus any cherry class | d ≤ 6 | holds |
 | 5 leaves: quadratic moves plus the fixed cherry {1,2} class | d ≤ 4 | holds |
 | 5 leaves: quadratic moves plus any cherry class | d ≤ 5 | holds |
-| 5 leaves: glued classes of {1,2} and all pairs in {3,4,5}, tables only | d ≤ 4 | holds |
+| 5 leaves: glued classes of {1,2} and all pairs in {3,4,5}, tables only | d ≤ 5 (227,171 fibres at d = 5) | holds |
 | Theorem 2 criterion (Γ connected) | d ≤ 6 (233,839 margins at d = 6) | holds |
 | 5 leaves: some single triple (cherry, middle leaf, cherry) already connects | d ≤ 5, no constant column | holds; at least 9 of the 15 triples always work |
 | Middle column containing all four values | d ≤ 5 | that triple never fails |
