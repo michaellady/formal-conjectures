@@ -1,0 +1,8 @@
+n=4 d=6 mode=pairs: fibres 22747, disconnected 0
+n=5 d=2 mode=pairs: fibres 16, disconnected 0
+n=5 d=3 mode=pairs: fibres 190, disconnected 0
+n=5 d=4 mode=pairs: fibres 4649, disconnected 0
+n=5 d=2 mode=pair01: fibres 16, disconnected 0
+n=5 d=3 mode=pair01: fibres 190, disconnected 0
+n=5 d=4 mode=pair01: fibres 4649, disconnected 0
+n=5 d=5 mode=pairs: fibres 25839, disconnected 0

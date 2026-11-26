@@ -1,0 +1,5 @@
+n=5 d=2 fixed split {1,2}: fibres 37, disconnected 0
+n=5 d=3 fixed split {1,2}: fibres 607, disconnected 0
+n=5 d=4 fixed split {1,2}: fibres 19995, disconnected 0
+d=6: pairs 3570, with holes 0
+n=6 d=5 mode=any: margins 78782, disconnected 0
