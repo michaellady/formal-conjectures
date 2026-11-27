@@ -74,6 +74,30 @@ Checked directly by linear programming for every pair with d ≤ 6. Empirically,
 
 These agree with the brute-force fibre search, which found no disconnected fibre at 5 leaves for d ≤ 6.
 
+## The Mixing Lemma (27 November 2026)
+
+The sharpest form of the lemma found so far needs no connectivity argument at all.
+
+**Mixing Lemma (conjectured, 5 leaves).** Let T and T′ be two tables with the same margin and no constant column. Then there are disjoint cherries P and Q, with remaining leaf m, such that −C_m ∈ μ_P(T) ⊕ μ_Q(T′). Equivalently, (μ_P(T), μ_Q(T′), C_m) is a feasible tripod margin.
+
+**Why it suffices.** If it holds, Theorem 2's joint-attainability lemma gives a table T″ with μ_P(T″) = μ_P(T) and μ_Q(T″) = μ_Q(T′). So T and T′ are two glued-tree steps apart, every fibre is connected, and φ(ℤ/4, 5) = 4 follows by Theorem 1. The lemma is a pure existence statement about one pairing of two multisets with prescribed sum multiset.
+
+Evidence:
+
+| Check | Range | Result |
+|---|---|---|
+| Split-class distance between any two tables (5 leaves) | d ≤ 4, all fibres | always ≤ 2 (d = 4: 1,595 fibres at distance 1, 1,880 at distance 2) |
+| Mixing Lemma, all ordered pairs of tables (5 leaves) | d ≤ 4 (89,072,970 ordered pairs at d = 4) | no exceptions |
+| Mixing Lemma, random pairs from random fibres | d = 5, 6, 8, 10 (3,000 each) | no exceptions; at least 13 of the 30 configurations work |
+| Number of working configurations, minimum over pairs | d = 3 | 8 of 30 |
+| Middle leaf m fixed with ≥ 3 distinct values in C_m: some pairing of the other four works | d = 3, all pairs | no exceptions (all 144 failures have C_m with 2 values) |
+
+The data split the problem into two cases:
+- **(i) Some column has at least three distinct values.** Take it as the middle leaf; one of the six ordered pairings of the other four leaves appears always to work.
+- **(ii) Every column has at most two values.** After translating each column, every column lies in {0,1}, {0,2} or {0,3}. This is a "small-alphabet" case that might reduce to ℤ/2-type arguments.
+
+For general n, the same statement with P and Q replaced by disjoint blocks of leaves would give the induction step. A partial explanation also exists. Each of the 64 tripod facets is a per-row inequality φ(a) + ψ(b) + χ(c) ≥ k on rows a + b + c = 0, and for every facet the two mixed configurations (P,Q) and (Q,P) together satisfy it on average. So each single facet is satisfied by one of the two mixtures. What is missing is a configuration satisfying all 64 facets at once.
+
 ## What remains
 
 1. **Five leaves, all degrees.** Prove that Γ is connected for every d. The data suggest a sharper statement: for a middle leaf m whose column is not too degenerate, the bipartite graph between α ∈ C_i ⊕ C_j and β ∈ C_k ⊕ C_l (edge when −C_m ∈ α ⊕ β) is connected. Collapsing the A-leaves and B-leaves to single columns, this says the lattice points of the polytope {(α, β) : (α, C_m, β) is a feasible tripod margin}, intersected with lattice-convex sets, can be joined by changing α or β one at a time ("rook-connected"). Everything is polyhedral with a fixed facet family. One route is a hand proof via the 18 facets. Another is a parametric or Presburger argument, since the statement is linear in the margin.
