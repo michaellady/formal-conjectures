@@ -91,10 +91,11 @@ Evidence:
 | Mixing Lemma, random pairs from random fibres | d = 5, 6, 8, 10 (3,000 each) | no exceptions; at least 13 of the 30 configurations work |
 | Number of working configurations, minimum over pairs | d = 3 | 8 of 30 |
 | Middle leaf m fixed with ≥ 3 distinct values in C_m: some pairing of the other four works | d = 3, all pairs | no exceptions (all 144 failures have C_m with 2 values) |
+| Same, fixed middle leaf, by number of values in C_m | d = 4, all pairs (about 445 million cases) | 4 values: never fails (267,786,854 cases); 3 values: fails in 139,804; 2 values: fails in 2,308,032 |
 
 The data split the problem into two cases:
-- **(i) Some column has at least three distinct values.** Take it as the middle leaf; one of the six ordered pairings of the other four leaves appears always to work.
-- **(ii) Every column has at most two values.** After translating each column, every column lies in {0,1}, {0,2} or {0,3}. This is a "small-alphabet" case that might reduce to ℤ/2-type arguments.
+- **(i) Some column takes all four values.** Take it as the middle leaf; one of the six ordered pairings of the other four leaves appears always to work (no exception through d = 4). Three values are not enough for a fixed middle leaf at d = 4, although some other choice of middle leaf then works.
+- **(ii) Every column takes at most three values.** This needs the freedom to choose the middle leaf; the all-two-valued sub-case (every column, after translation, inside {0,1}, {0,2} or {0,3}) is a small-alphabet case that might reduce to ℤ/2-type arguments.
 
 For general n, the same statement with P and Q replaced by disjoint blocks of leaves would give the induction step. A partial explanation also exists. Each of the 64 tripod facets is a per-row inequality φ(a) + ψ(b) + χ(c) ≥ k on rows a + b + c = 0, and for every facet the two mixed configurations (P,Q) and (Q,P) together satisfy it on average. So each single facet is satisfied by one of the two mixtures. What is missing is a configuration satisfying all 64 facets at once.
 
